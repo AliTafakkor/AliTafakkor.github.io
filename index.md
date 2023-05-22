@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a M.Sc. student at Western University
+I am a Neuroscience M.Sc. student at Western University, London, Ontario.
 
 ## Research Interests
 
