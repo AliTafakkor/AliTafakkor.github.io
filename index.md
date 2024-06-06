@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I'm n prospective Ph.D. student and currently a Research Technician at the [CoNCH lab](https://www.conchlab.uwo.ca/), Center for Brain and Mind, Western University, London, Ontario. I hold a M.Sc. in Neuroscience and a B.Sc. in Electrical Engineering.
+I'm a prospective Ph.D. student and currently a Research Technician at the [CoNCH lab](https://www.conchlab.uwo.ca/), Center for Brain and Mind, Western University, London, Ontario. I hold a M.Sc. in Neuroscience and a B.Sc. in Electrical Engineering.
 
 ## Research Interests
 - **Cognitive Neuroscience:** Examining neural mechanisms behind cognitive processes, with a focus on naturalistic stimuli related to hearing and speech.
