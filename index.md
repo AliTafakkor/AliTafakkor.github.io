@@ -11,6 +11,9 @@ I'm a prospective Ph.D. student and currently a Research Technician at the [CoNC
 - **Computational Neuroscience:** Utilizing computational methods to model auditory and speech processing in the brain.
 - **Neuroimaging:** Employing neuroimaging techniques to investigate the neural basis of auditory and speech functions, with clinical applications in mind.
 
+## Featured
+{% include_relative _includes/feature.md %}
+
 ## News
 
 - **[June 2024]** Presented a poster on "Feasibility of Localizing Epileptogenic Tissue with Naturalistic Stimulation in fMRI" at the Organization of Human Brain Mapping 2024 annual meeting.
