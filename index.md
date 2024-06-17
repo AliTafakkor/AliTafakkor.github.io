@@ -24,6 +24,6 @@ I'm a prospective Ph.D. student and currently a Research Technician at the [CoNC
 - **[August 2023]** Successfully defended my Master's thesis.
 - **[July 2023]** Presented a poster on "Temporal Dynamics of Neural Sound Categorization" at the Organization of Human Brain Mapping 2023 annual meeting.
 
-{% include_relative _includes/research.md %}
+<!-- {% include_relative _includes/research.md %} -->
 
-{% include_relative _includes/publications.md %}
+<!-- {% include_relative _includes/publications.md %} -->
