@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I'm a prospective Ph.D. student and currently a Research Technician at the [CoNCH lab](https://www.conchlab.uwo.ca/), Center for Brain and Mind, Western University, London, Ontario. I hold a M.Sc. in Neuroscience and a B.Sc. in Electrical Engineering.
+I am a prospective Ph.D. student and currently work as a Research Technician in the [CoNCH Lab](https://www.conchlab.uwo.ca/) at the Centre for Brain and Mind, Western University, London, Ontario. I also serve as support staff for the Computational Core at the Centre for Brain and Mind. I hold an M.Sc. in Neuroscience and a B.Sc. in Electrical Engineering.
 
 ## Research Interests
 - **Cognitive Neuroscience:** Examining neural mechanisms behind cognitive processes, with a focus on naturalistic stimuli related to hearing and speech.
@@ -16,6 +16,7 @@ I'm a prospective Ph.D. student and currently a Research Technician at the [CoNC
 
 ## News
 
+- **[October 2024]** Started my role as a Computational Core support staff at [Center for Brain and Mind](https://www.uwo.ca/bmi/index.html).
 - **[June 2024]** Presented a poster on "Feasibility of Localizing Epileptogenic Tissue with Naturalistic Stimulation in fMRI" at the Organization of Human Brain Mapping 2024 annual meeting.
 - **[April 2024]** Presented a poster on "Dynamics of the Multiple Demand Network Connectivity Under Varied Speech to Noise Ratios" at the Cognititve Neuroscience Society 2024 annual meeting.
 - **[September 2023]** Began my role as a Research Technician at the CoNCH lab.
